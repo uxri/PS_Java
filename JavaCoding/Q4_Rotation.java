@@ -1,6 +1,6 @@
 package JavaCoding;
 
-public class Q4_rotation {
+public class Q4_Rotation {
     public static void main(String[] args){
 
         System.out.println(
